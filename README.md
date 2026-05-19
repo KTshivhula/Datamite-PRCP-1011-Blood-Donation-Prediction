@@ -128,7 +128,7 @@ See \[`requirements.txt`](requirements.txt) for exact versions.
 
 \# 1. Clone the repository
 
-git clone https://github.com/YOUR\_USERNAME/blood-donation-prediction.git
+git clone https://github.com/KTshivhula/Datamite-PRCP-1011-Blood-Donation-Prediction.git
 
 cd blood-donation-prediction
 
